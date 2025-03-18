@@ -1,0 +1,7 @@
+$textAlign: justify;
+$marginSize: 30px 100px;
+
+.para-box {
+  margin: $marginSize;
+  text-align: $textAlign;
+}
